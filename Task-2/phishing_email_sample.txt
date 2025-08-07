@@ -1,0 +1,11 @@
+From: support@paypol.com
+Subject: Urgent! Account Verification Needed
+
+Dear user,
+
+Your PayPal account has been compromised. Please click the link below to verify your account immediately or it will be suspended.
+
+Click here to verify: http://fake-paypol.verification.com/login
+
+Sincerely,  
+PayPal Security Team
